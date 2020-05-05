@@ -1,0 +1,36 @@
+{
+  "name": "iclip",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waveiro/iclip.git"
+  },
+  "keywords": [
+    "image",
+    "clipper",
+    "crop",
+    "smart crop",
+    "image clipper",
+    "image process"
+  ],
+  "author": "Willian Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waveiro/iclip/issues"
+  },
+  "homepage": "https://github.com/waveiro/iclip#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "jest": "^26.0.1"
+  }
+}
